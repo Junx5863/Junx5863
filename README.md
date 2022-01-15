@@ -17,7 +17,7 @@
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: nicolaszamb99@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Junx5863/Junx5863/blob/main/CV%20-%20Nicolas%20-%20Ingles.pdf).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -27,6 +27,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Junx5863&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<h1 align="center"> 🤝 Socials: </h1>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nicolas-zambrano-rodriguez/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</h1>
+
+<hr>
+
 
 <!--
 **Junx5863/Junx5863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
