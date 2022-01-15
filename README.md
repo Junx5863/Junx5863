@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Nicolas 👋
+![Junx5863](https://user-images.githubusercontent.com/22248227/149606286-793fb965-39df-4fae-b0d8-3c88ffecbcbd.png)
 <!--
 **Junx5863/Junx5863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
